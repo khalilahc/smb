@@ -1,0 +1,14 @@
+{
+    "genesis": [
+      { "day": 1, "title": "The Beginning", "verse": "Genesis 1:1-31", "text": "In the beginning God created the heavens and the earth..." },
+      { "day": 2, "title": "Adam & Eve", "verse": "Genesis 2:1-25", "text": "The Lord God formed a man from the dust..." }
+    ],
+    "exodus": [
+      { "day": 1, "title": "Let My People Go", "verse": "Exodus 1:1-22", "text": "A new king arose over Egypt who did not know Joseph..." },
+      { "day": 2, "title": "The Burning Bush", "verse": "Exodus 3:1-22", "text": "Moses saw that though the bush was on fire it did not burn up..." }
+    ],
+    "psalms": [
+      { "day": 1, "title": "Blessed is the One", "verse": "Psalm 1:1-6", "text": "Blessed is the one who does not walk in step with the wicked..." },
+      { "day": 2, "title": "The Lord is My Shepherd", "verse": "Psalm 23:1-6", "text": "The Lord is my shepherd, I lack nothing..." }
+    ]
+  }

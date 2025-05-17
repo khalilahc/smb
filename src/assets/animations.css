@@ -1,0 +1,20 @@
+/* animations.css */
+.sparkle-bg::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: url('/images/sparkles.gif') center/cover no-repeat;
+    opacity: 0.2;
+    z-index: -1;
+    pointer-events: none;
+  }
+  
+  .animate-glow {
+    animation: pulseGlow 2s infinite alternate;
+  }
+  
+  @keyframes pulseGlow {
+    0% { text-shadow: 0 0 5px #f0e, 0 0 10px #f0e; }
+    100% { text-shadow: 0 0 20px #f0e, 0 0 30px #f0e; }
+  }
+  

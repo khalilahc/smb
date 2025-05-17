@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "files.autoSave": "onWindowChange",
+    "javascript.validate.enable": true,
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "typescript.validate.enable": true
+  }
+  

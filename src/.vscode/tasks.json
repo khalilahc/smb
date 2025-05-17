@@ -1,0 +1,28 @@
+// .vscode/tasks.json
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Dev Server",
+        "type": "shell",
+        "command": "npm run dev",
+        "group": "build",
+        "problemMatcher": []
+      },
+      {
+        "label": "Build Production",
+        "type": "shell",
+        "command": "npm run build",
+        "group": "build",
+        "problemMatcher": []
+      },
+      {
+        "label": "Preview Build Locally",
+        "type": "shell",
+        "command": "npx serve dist",
+        "group": "test",
+        "problemMatcher": []
+      }
+    ]
+  }
+  

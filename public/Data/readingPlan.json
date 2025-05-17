@@ -1,0 +1,1462 @@
+[
+    {
+      "day": 1,
+      "reading": "Genesis 1-2"
+    },
+    {
+      "day": 2,
+      "reading": "Genesis 3-4"
+    },
+    {
+      "day": 3,
+      "reading": "Genesis 5-6"
+    },
+    {
+      "day": 4,
+      "reading": "Genesis 7-8"
+    },
+    {
+      "day": 5,
+      "reading": "Genesis 9-10"
+    },
+    {
+      "day": 6,
+      "reading": "Genesis 11-12"
+    },
+    {
+      "day": 7,
+      "reading": "Genesis 13-14"
+    },
+    {
+      "day": 8,
+      "reading": "Genesis 15-16"
+    },
+    {
+      "day": 9,
+      "reading": "Genesis 17-18"
+    },
+    {
+      "day": 10,
+      "reading": "Genesis 19-20"
+    },
+    {
+      "day": 11,
+      "reading": "Genesis 21-22"
+    },
+    {
+      "day": 12,
+      "reading": "Genesis 23-24"
+    },
+    {
+      "day": 13,
+      "reading": "Genesis 25-26"
+    },
+    {
+      "day": 14,
+      "reading": "Genesis 27-28"
+    },
+    {
+      "day": 15,
+      "reading": "Genesis 29-30"
+    },
+    {
+      "day": 16,
+      "reading": "Genesis 31-32"
+    },
+    {
+      "day": 17,
+      "reading": "Genesis 33-34"
+    },
+    {
+      "day": 18,
+      "reading": "Genesis 35-36"
+    },
+    {
+      "day": 19,
+      "reading": "Genesis 37-38"
+    },
+    {
+      "day": 20,
+      "reading": "Genesis 39-40"
+    },
+    {
+      "day": 21,
+      "reading": "Genesis 41-42"
+    },
+    {
+      "day": 22,
+      "reading": "Genesis 43-44"
+    },
+    {
+      "day": 23,
+      "reading": "Genesis 45-46"
+    },
+    {
+      "day": 24,
+      "reading": "Genesis 47-48"
+    },
+    {
+      "day": 25,
+      "reading": "Genesis 49-50"
+    },
+    {
+      "day": 26,
+      "reading": "Exodus 1-2"
+    },
+    {
+      "day": 27,
+      "reading": "Exodus 3-4"
+    },
+    {
+      "day": 28,
+      "reading": "Exodus 5-6"
+    },
+    {
+      "day": 29,
+      "reading": "Exodus 7-8"
+    },
+    {
+      "day": 30,
+      "reading": "Exodus 9-10"
+    },
+    {
+      "day": 31,
+      "reading": "Exodus 11-12"
+    },
+    {
+      "day": 32,
+      "reading": "Exodus 13-14"
+    },
+    {
+      "day": 33,
+      "reading": "Exodus 15-16"
+    },
+    {
+      "day": 34,
+      "reading": "Exodus 17-18"
+    },
+    {
+      "day": 35,
+      "reading": "Exodus 19-20"
+    },
+    {
+      "day": 36,
+      "reading": "Exodus 21-22"
+    },
+    {
+      "day": 37,
+      "reading": "Exodus 23-24"
+    },
+    {
+      "day": 38,
+      "reading": "Exodus 25-26"
+    },
+    {
+      "day": 39,
+      "reading": "Exodus 27-28"
+    },
+    {
+      "day": 40,
+      "reading": "Exodus 29-30"
+    },
+    {
+      "day": 41,
+      "reading": "Exodus 31-32"
+    },
+    {
+      "day": 42,
+      "reading": "Exodus 33-34"
+    },
+    {
+      "day": 43,
+      "reading": "Exodus 35-36"
+    },
+    {
+      "day": 44,
+      "reading": "Exodus 37-38"
+    },
+    {
+      "day": 45,
+      "reading": "Exodus 39-40"
+    },
+    {
+      "day": 46,
+      "reading": "Leviticus 1-2"
+    },
+    {
+      "day": 47,
+      "reading": "Leviticus 3-4"
+    },
+    {
+      "day": 48,
+      "reading": "Leviticus 5-6"
+    },
+    {
+      "day": 49,
+      "reading": "Leviticus 7-8"
+    },
+    {
+      "day": 50,
+      "reading": "Leviticus 9-10"
+    },
+    {
+      "day": 51,
+      "reading": "Leviticus 11-12"
+    },
+    {
+      "day": 52,
+      "reading": "Leviticus 13-14"
+    },
+    {
+      "day": 53,
+      "reading": "Leviticus 15-16"
+    },
+    {
+      "day": 54,
+      "reading": "Leviticus 17-18"
+    },
+    {
+      "day": 55,
+      "reading": "Leviticus 19-20"
+    },
+    {
+      "day": 56,
+      "reading": "Leviticus 21-22"
+    },
+    {
+      "day": 57,
+      "reading": "Leviticus 23-24"
+    },
+    {
+      "day": 58,
+      "reading": "Leviticus 25-26"
+    },
+    {
+      "day": 59,
+      "reading": "Leviticus 27"
+    },
+    {
+      "day": 60,
+      "reading": "Numbers 1-2"
+    },
+    {
+      "day": 61,
+      "reading": "Numbers 3-4"
+    },
+    {
+      "day": 62,
+      "reading": "Numbers 5-6"
+    },
+    {
+      "day": 63,
+      "reading": "Numbers 7-8"
+    },
+    {
+      "day": 64,
+      "reading": "Numbers 9-10"
+    },
+    {
+      "day": 65,
+      "reading": "Numbers 11-12"
+    },
+    {
+      "day": 66,
+      "reading": "Numbers 13-14"
+    },
+    {
+      "day": 67,
+      "reading": "Numbers 15-16"
+    },
+    {
+      "day": 68,
+      "reading": "Numbers 17-18"
+    },
+    {
+      "day": 69,
+      "reading": "Numbers 19-20"
+    },
+    {
+      "day": 70,
+      "reading": "Numbers 21-22"
+    },
+    {
+      "day": 71,
+      "reading": "Numbers 23-24"
+    },
+    {
+      "day": 72,
+      "reading": "Numbers 25-26"
+    },
+    {
+      "day": 73,
+      "reading": "Numbers 27-28"
+    },
+    {
+      "day": 74,
+      "reading": "Numbers 29-30"
+    },
+    {
+      "day": 75,
+      "reading": "Numbers 31-32"
+    },
+    {
+      "day": 76,
+      "reading": "Numbers 33-34"
+    },
+    {
+      "day": 77,
+      "reading": "Numbers 35-36"
+    },
+    {
+      "day": 78,
+      "reading": "Deuteronomy 1-2"
+    },
+    {
+      "day": 79,
+      "reading": "Deuteronomy 3-4"
+    },
+    {
+      "day": 80,
+      "reading": "Deuteronomy 5-6"
+    },
+    {
+      "day": 81,
+      "reading": "Deuteronomy 7-8"
+    },
+    {
+      "day": 82,
+      "reading": "Deuteronomy 9-10"
+    },
+    {
+      "day": 83,
+      "reading": "Deuteronomy 11-12"
+    },
+    {
+      "day": 84,
+      "reading": "Deuteronomy 13-14"
+    },
+    {
+      "day": 85,
+      "reading": "Deuteronomy 15-16"
+    },
+    {
+      "day": 86,
+      "reading": "Deuteronomy 17-18"
+    },
+    {
+      "day": 87,
+      "reading": "Deuteronomy 19-20"
+    },
+    {
+      "day": 88,
+      "reading": "Deuteronomy 21-22"
+    },
+    {
+      "day": 89,
+      "reading": "Deuteronomy 23-24"
+    },
+    {
+      "day": 90,
+      "reading": "Deuteronomy 25-26"
+    },
+    {
+      "day": 91,
+      "reading": "Deuteronomy 27-28"
+    },
+    {
+      "day": 92,
+      "reading": "Deuteronomy 29-30"
+    },
+    {
+      "day": 93,
+      "reading": "Deuteronomy 31-32"
+    },
+    {
+      "day": 94,
+      "reading": "Deuteronomy 33-34"
+    },
+    {
+      "day": 95,
+      "reading": "Joshua 1-2"
+    },
+    {
+      "day": 96,
+      "reading": "Joshua 3-4"
+    },
+    {
+      "day": 97,
+      "reading": "Joshua 5-6"
+    },
+    {
+      "day": 98,
+      "reading": "Joshua 7-8"
+    },
+    {
+      "day": 99,
+      "reading": "Joshua 9-10"
+    },
+    {
+      "day": 100,
+      "reading": "Joshua 11-12"
+    },
+    {
+      "day": 101,
+      "reading": "Joshua 13-14"
+    },
+    {
+      "day": 102,
+      "reading": "Joshua 15-16"
+    },
+    {
+      "day": 103,
+      "reading": "Joshua 17-18"
+    },
+    {
+      "day": 104,
+      "reading": "Joshua 19-20"
+    },
+    {
+      "day": 105,
+      "reading": "Joshua 21-22"
+    },
+    {
+      "day": 106,
+      "reading": "Joshua 23-24"
+    },
+    {
+      "day": 107,
+      "reading": "Judges 1-2"
+    },
+    {
+      "day": 108,
+      "reading": "Judges 3-4"
+    },
+    {
+      "day": 109,
+      "reading": "Judges 5-6"
+    },
+    {
+      "day": 110,
+      "reading": "Judges 7-8"
+    },
+    {
+      "day": 111,
+      "reading": "Judges 9-10"
+    },
+    {
+      "day": 112,
+      "reading": "Judges 11-12"
+    },
+    {
+      "day": 113,
+      "reading": "Judges 13-14"
+    },
+    {
+      "day": 114,
+      "reading": "Judges 15-16"
+    },
+    {
+      "day": 115,
+      "reading": "Judges 17-18"
+    },
+    {
+      "day": 116,
+      "reading": "Judges 19-20"
+    },
+    {
+      "day": 117,
+      "reading": "Judges 21"
+    },
+    {
+      "day": 118,
+      "reading": "Ruth 1-2"
+    },
+    {
+      "day": 119,
+      "reading": "Ruth 3-4"
+    },
+    {
+      "day": 120,
+      "reading": "1 Samuel 1-2"
+    },
+    {
+      "day": 121,
+      "reading": "1 Samuel 3-4"
+    },
+    {
+      "day": 122,
+      "reading": "1 Samuel 5-6"
+    },
+    {
+      "day": 123,
+      "reading": "1 Samuel 7-8"
+    },
+    {
+      "day": 124,
+      "reading": "1 Samuel 9-10"
+    },
+    {
+      "day": 125,
+      "reading": "1 Samuel 11-12"
+    },
+    {
+      "day": 126,
+      "reading": "1 Samuel 13-14"
+    },
+    {
+      "day": 127,
+      "reading": "1 Samuel 15-16"
+    },
+    {
+      "day": 128,
+      "reading": "1 Samuel 17-18"
+    },
+    {
+      "day": 129,
+      "reading": "1 Samuel 19-20"
+    },
+    {
+      "day": 130,
+      "reading": "1 Samuel 21-22"
+    },
+    {
+      "day": 131,
+      "reading": "1 Samuel 23-24"
+    },
+    {
+      "day": 132,
+      "reading": "1 Samuel 25-26"
+    },
+    {
+      "day": 133,
+      "reading": "1 Samuel 27-28"
+    },
+    {
+      "day": 134,
+      "reading": "1 Samuel 29-30"
+    },
+    {
+      "day": 135,
+      "reading": "1 Samuel 31"
+    },
+    {
+      "day": 136,
+      "reading": "2 Samuel 1-2"
+    },
+    {
+      "day": 137,
+      "reading": "2 Samuel 3-4"
+    },
+    {
+      "day": 138,
+      "reading": "2 Samuel 5-6"
+    },
+    {
+      "day": 139,
+      "reading": "2 Samuel 7-8"
+    },
+    {
+      "day": 140,
+      "reading": "2 Samuel 9-10"
+    },
+    {
+      "day": 141,
+      "reading": "2 Samuel 11-12"
+    },
+    {
+      "day": 142,
+      "reading": "2 Samuel 13-14"
+    },
+    {
+      "day": 143,
+      "reading": "2 Samuel 15-16"
+    },
+    {
+      "day": 144,
+      "reading": "2 Samuel 17-18"
+    },
+    {
+      "day": 145,
+      "reading": "2 Samuel 19-20"
+    },
+    {
+      "day": 146,
+      "reading": "2 Samuel 21-22"
+    },
+    {
+      "day": 147,
+      "reading": "2 Samuel 23-24"
+    },
+    {
+      "day": 148,
+      "reading": "1 Kings 1-2"
+    },
+    {
+      "day": 149,
+      "reading": "1 Kings 3-4"
+    },
+    {
+      "day": 150,
+      "reading": "1 Kings 5-6"
+    },
+    {
+      "day": 151,
+      "reading": "1 Kings 7-8"
+    },
+    {
+      "day": 152,
+      "reading": "1 Kings 9-10"
+    },
+    {
+      "day": 153,
+      "reading": "1 Kings 11-12"
+    },
+    {
+      "day": 154,
+      "reading": "1 Kings 13-14"
+    },
+    {
+      "day": 155,
+      "reading": "1 Kings 15-16"
+    },
+    {
+      "day": 156,
+      "reading": "1 Kings 17-18"
+    },
+    {
+      "day": 157,
+      "reading": "1 Kings 19-20"
+    },
+    {
+      "day": 158,
+      "reading": "1 Kings 21-22"
+    },
+    {
+      "day": 159,
+      "reading": "2 Kings 1-2"
+    },
+    {
+      "day": 160,
+      "reading": "2 Kings 3-4"
+    },
+    {
+      "day": 161,
+      "reading": "2 Kings 5-6"
+    },
+    {
+      "day": 162,
+      "reading": "2 Kings 7-8"
+    },
+    {
+      "day": 163,
+      "reading": "2 Kings 9-10"
+    },
+    {
+      "day": 164,
+      "reading": "2 Kings 11-12"
+    },
+    {
+      "day": 165,
+      "reading": "2 Kings 13-14"
+    },
+    {
+      "day": 166,
+      "reading": "2 Kings 15-16"
+    },
+    {
+      "day": 167,
+      "reading": "2 Kings 17-18"
+    },
+    {
+      "day": 168,
+      "reading": "2 Kings 19-20"
+    },
+    {
+      "day": 169,
+      "reading": "2 Kings 21-22"
+    },
+    {
+      "day": 170,
+      "reading": "2 Kings 23-24"
+    },
+    {
+      "day": 171,
+      "reading": "2 Kings 25"
+    },
+    {
+      "day": 172,
+      "reading": "1 Chronicles 1-2"
+    },
+    {
+      "day": 173,
+      "reading": "1 Chronicles 3-4"
+    },
+    {
+      "day": 174,
+      "reading": "1 Chronicles 5-6"
+    },
+    {
+      "day": 175,
+      "reading": "1 Chronicles 7-8"
+    },
+    {
+      "day": 176,
+      "reading": "1 Chronicles 9-10"
+    },
+    {
+      "day": 177,
+      "reading": "1 Chronicles 11-12"
+    },
+    {
+      "day": 178,
+      "reading": "1 Chronicles 13-14"
+    },
+    {
+      "day": 179,
+      "reading": "1 Chronicles 15-16"
+    },
+    {
+      "day": 180,
+      "reading": "1 Chronicles 17-18"
+    },
+    {
+      "day": 181,
+      "reading": "1 Chronicles 19-20"
+    },
+    {
+      "day": 182,
+      "reading": "1 Chronicles 21-22"
+    },
+    {
+      "day": 183,
+      "reading": "1 Chronicles 23-24"
+    },
+    {
+      "day": 184,
+      "reading": "1 Chronicles 25-26"
+    },
+    {
+      "day": 185,
+      "reading": "1 Chronicles 27-28"
+    },
+    {
+      "day": 186,
+      "reading": "1 Chronicles 29"
+    },
+    {
+      "day": 187,
+      "reading": "2 Chronicles 1-2"
+    },
+    {
+      "day": 188,
+      "reading": "2 Chronicles 3-4"
+    },
+    {
+      "day": 189,
+      "reading": "2 Chronicles 5-6"
+    },
+    {
+      "day": 190,
+      "reading": "2 Chronicles 7-8"
+    },
+    {
+      "day": 191,
+      "reading": "2 Chronicles 9-10"
+    },
+    {
+      "day": 192,
+      "reading": "2 Chronicles 11-12"
+    },
+    {
+      "day": 193,
+      "reading": "2 Chronicles 13-14"
+    },
+    {
+      "day": 194,
+      "reading": "2 Chronicles 15-16"
+    },
+    {
+      "day": 195,
+      "reading": "2 Chronicles 17-18"
+    },
+    {
+      "day": 196,
+      "reading": "2 Chronicles 19-20"
+    },
+    {
+      "day": 197,
+      "reading": "2 Chronicles 21-22"
+    },
+    {
+      "day": 198,
+      "reading": "2 Chronicles 23-24"
+    },
+    {
+      "day": 199,
+      "reading": "2 Chronicles 25-26"
+    },
+    {
+      "day": 200,
+      "reading": "2 Chronicles 27-28"
+    },
+    {
+      "day": 201,
+      "reading": "2 Chronicles 29-30"
+    },
+    {
+      "day": 202,
+      "reading": "2 Chronicles 31-32"
+    },
+    {
+      "day": 203,
+      "reading": "2 Chronicles 33-34"
+    },
+    {
+      "day": 204,
+      "reading": "2 Chronicles 35-36"
+    },
+    {
+      "day": 205,
+      "reading": "Ezra 1-2"
+    },
+    {
+      "day": 206,
+      "reading": "Ezra 3-4"
+    },
+    {
+      "day": 207,
+      "reading": "Ezra 5-6"
+    },
+    {
+      "day": 208,
+      "reading": "Ezra 7-8"
+    },
+    {
+      "day": 209,
+      "reading": "Ezra 9-10"
+    },
+    {
+      "day": 210,
+      "reading": "Nehemiah 1-2"
+    },
+    {
+      "day": 211,
+      "reading": "Nehemiah 3-4"
+    },
+    {
+      "day": 212,
+      "reading": "Nehemiah 5-6"
+    },
+    {
+      "day": 213,
+      "reading": "Nehemiah 7-8"
+    },
+    {
+      "day": 214,
+      "reading": "Nehemiah 9-10"
+    },
+    {
+      "day": 215,
+      "reading": "Nehemiah 11-12"
+    },
+    {
+      "day": 216,
+      "reading": "Nehemiah 13"
+    },
+    {
+      "day": 217,
+      "reading": "Esther 1-2"
+    },
+    {
+      "day": 218,
+      "reading": "Esther 3-4"
+    },
+    {
+      "day": 219,
+      "reading": "Esther 5-6"
+    },
+    {
+      "day": 220,
+      "reading": "Esther 7-8"
+    },
+    {
+      "day": 221,
+      "reading": "Esther 9-10"
+    },
+    {
+      "day": 222,
+      "reading": "Job 1-2"
+    },
+    {
+      "day": 223,
+      "reading": "Job 3-4"
+    },
+    {
+      "day": 224,
+      "reading": "Job 5-6"
+    },
+    {
+      "day": 225,
+      "reading": "Job 7-8"
+    },
+    {
+      "day": 226,
+      "reading": "Job 9-10"
+    },
+    {
+      "day": 227,
+      "reading": "Job 11-12"
+    },
+    {
+      "day": 228,
+      "reading": "Job 13-14"
+    },
+    {
+      "day": 229,
+      "reading": "Job 15-16"
+    },
+    {
+      "day": 230,
+      "reading": "Job 17-18"
+    },
+    {
+      "day": 231,
+      "reading": "Job 19-20"
+    },
+    {
+      "day": 232,
+      "reading": "Job 21-22"
+    },
+    {
+      "day": 233,
+      "reading": "Job 23-24"
+    },
+    {
+      "day": 234,
+      "reading": "Job 25-26"
+    },
+    {
+      "day": 235,
+      "reading": "Job 27-28"
+    },
+    {
+      "day": 236,
+      "reading": "Job 29-30"
+    },
+    {
+      "day": 237,
+      "reading": "Job 31-32"
+    },
+    {
+      "day": 238,
+      "reading": "Job 33-34"
+    },
+    {
+      "day": 239,
+      "reading": "Job 35-36"
+    },
+    {
+      "day": 240,
+      "reading": "Job 37-38"
+    },
+    {
+      "day": 241,
+      "reading": "Job 39-40"
+    },
+    {
+      "day": 242,
+      "reading": "Job 41-42"
+    },
+    {
+      "day": 243,
+      "reading": "Psalms 1-2"
+    },
+    {
+      "day": 244,
+      "reading": "Psalms 3-4"
+    },
+    {
+      "day": 245,
+      "reading": "Psalms 5-6"
+    },
+    {
+      "day": 246,
+      "reading": "Psalms 7-8"
+    },
+    {
+      "day": 247,
+      "reading": "Psalms 9-10"
+    },
+    {
+      "day": 248,
+      "reading": "Psalms 11-12"
+    },
+    {
+      "day": 249,
+      "reading": "Psalms 13-14"
+    },
+    {
+      "day": 250,
+      "reading": "Psalms 15-16"
+    },
+    {
+      "day": 251,
+      "reading": "Psalms 17-18"
+    },
+    {
+      "day": 252,
+      "reading": "Psalms 19-20"
+    },
+    {
+      "day": 253,
+      "reading": "Psalms 21-22"
+    },
+    {
+      "day": 254,
+      "reading": "Psalms 23-24"
+    },
+    {
+      "day": 255,
+      "reading": "Psalms 25-26"
+    },
+    {
+      "day": 256,
+      "reading": "Psalms 27-28"
+    },
+    {
+      "day": 257,
+      "reading": "Psalms 29-30"
+    },
+    {
+      "day": 258,
+      "reading": "Psalms 31-32"
+    },
+    {
+      "day": 259,
+      "reading": "Psalms 33-34"
+    },
+    {
+      "day": 260,
+      "reading": "Psalms 35-36"
+    },
+    {
+      "day": 261,
+      "reading": "Psalms 37-38"
+    },
+    {
+      "day": 262,
+      "reading": "Psalms 39-40"
+    },
+    {
+      "day": 263,
+      "reading": "Psalms 41-42"
+    },
+    {
+      "day": 264,
+      "reading": "Psalms 43-44"
+    },
+    {
+      "day": 265,
+      "reading": "Psalms 45-46"
+    },
+    {
+      "day": 266,
+      "reading": "Psalms 47-48"
+    },
+    {
+      "day": 267,
+      "reading": "Psalms 49-50"
+    },
+    {
+      "day": 268,
+      "reading": "Psalms 51-52"
+    },
+    {
+      "day": 269,
+      "reading": "Psalms 53-54"
+    },
+    {
+      "day": 270,
+      "reading": "Psalms 55-56"
+    },
+    {
+      "day": 271,
+      "reading": "Psalms 57-58"
+    },
+    {
+      "day": 272,
+      "reading": "Psalms 59-60"
+    },
+    {
+      "day": 273,
+      "reading": "Psalms 61-62"
+    },
+    {
+      "day": 274,
+      "reading": "Psalms 63-64"
+    },
+    {
+      "day": 275,
+      "reading": "Psalms 65-66"
+    },
+    {
+      "day": 276,
+      "reading": "Psalms 67-68"
+    },
+    {
+      "day": 277,
+      "reading": "Psalms 69-70"
+    },
+    {
+      "day": 278,
+      "reading": "Psalms 71-72"
+    },
+    {
+      "day": 279,
+      "reading": "Psalms 73-74"
+    },
+    {
+      "day": 280,
+      "reading": "Psalms 75-76"
+    },
+    {
+      "day": 281,
+      "reading": "Psalms 77-78"
+    },
+    {
+      "day": 282,
+      "reading": "Psalms 79-80"
+    },
+    {
+      "day": 283,
+      "reading": "Psalms 81-82"
+    },
+    {
+      "day": 284,
+      "reading": "Psalms 83-84"
+    },
+    {
+      "day": 285,
+      "reading": "Psalms 85-86"
+    },
+    {
+      "day": 286,
+      "reading": "Psalms 87-88"
+    },
+    {
+      "day": 287,
+      "reading": "Psalms 89-90"
+    },
+    {
+      "day": 288,
+      "reading": "Psalms 91-92"
+    },
+    {
+      "day": 289,
+      "reading": "Psalms 93-94"
+    },
+    {
+      "day": 290,
+      "reading": "Psalms 95-96"
+    },
+    {
+      "day": 291,
+      "reading": "Psalms 97-98"
+    },
+    {
+      "day": 292,
+      "reading": "Psalms 99-100"
+    },
+    {
+      "day": 293,
+      "reading": "Psalms 101-102"
+    },
+    {
+      "day": 294,
+      "reading": "Psalms 103-104"
+    },
+    {
+      "day": 295,
+      "reading": "Psalms 105-106"
+    },
+    {
+      "day": 296,
+      "reading": "Psalms 107-108"
+    },
+    {
+      "day": 297,
+      "reading": "Psalms 109-110"
+    },
+    {
+      "day": 298,
+      "reading": "Psalms 111-112"
+    },
+    {
+      "day": 299,
+      "reading": "Psalms 113-114"
+    },
+    {
+      "day": 300,
+      "reading": "Psalms 115-116"
+    },
+    {
+      "day": 301,
+      "reading": "Psalms 117-118"
+    },
+    {
+      "day": 302,
+      "reading": "Psalms 119-120"
+    },
+    {
+      "day": 303,
+      "reading": "Psalms 121-122"
+    },
+    {
+      "day": 304,
+      "reading": "Psalms 123-124"
+    },
+    {
+      "day": 305,
+      "reading": "Psalms 125-126"
+    },
+    {
+      "day": 306,
+      "reading": "Psalms 127-128"
+    },
+    {
+      "day": 307,
+      "reading": "Psalms 129-130"
+    },
+    {
+      "day": 308,
+      "reading": "Psalms 131-132"
+    },
+    {
+      "day": 309,
+      "reading": "Psalms 133-134"
+    },
+    {
+      "day": 310,
+      "reading": "Psalms 135-136"
+    },
+    {
+      "day": 311,
+      "reading": "Psalms 137-138"
+    },
+    {
+      "day": 312,
+      "reading": "Psalms 139-140"
+    },
+    {
+      "day": 313,
+      "reading": "Psalms 141-142"
+    },
+    {
+      "day": 314,
+      "reading": "Psalms 143-144"
+    },
+    {
+      "day": 315,
+      "reading": "Psalms 145-146"
+    },
+    {
+      "day": 316,
+      "reading": "Psalms 147-148"
+    },
+    {
+      "day": 317,
+      "reading": "Psalms 149-150"
+    },
+    {
+      "day": 318,
+      "reading": "Proverbs 1-2"
+    },
+    {
+      "day": 319,
+      "reading": "Proverbs 3-4"
+    },
+    {
+      "day": 320,
+      "reading": "Proverbs 5-6"
+    },
+    {
+      "day": 321,
+      "reading": "Proverbs 7-8"
+    },
+    {
+      "day": 322,
+      "reading": "Proverbs 9-10"
+    },
+    {
+      "day": 323,
+      "reading": "Proverbs 11-12"
+    },
+    {
+      "day": 324,
+      "reading": "Proverbs 13-14"
+    },
+    {
+      "day": 325,
+      "reading": "Proverbs 15-16"
+    },
+    {
+      "day": 326,
+      "reading": "Proverbs 17-18"
+    },
+    {
+      "day": 327,
+      "reading": "Proverbs 19-20"
+    },
+    {
+      "day": 328,
+      "reading": "Proverbs 21-22"
+    },
+    {
+      "day": 329,
+      "reading": "Proverbs 23-24"
+    },
+    {
+      "day": 330,
+      "reading": "Proverbs 25-26"
+    },
+    {
+      "day": 331,
+      "reading": "Proverbs 27-28"
+    },
+    {
+      "day": 332,
+      "reading": "Proverbs 29-30"
+    },
+    {
+      "day": 333,
+      "reading": "Proverbs 31"
+    },
+    {
+      "day": 334,
+      "reading": "Ecclesiastes 1-2"
+    },
+    {
+      "day": 335,
+      "reading": "Ecclesiastes 3-4"
+    },
+    {
+      "day": 336,
+      "reading": "Ecclesiastes 5-6"
+    },
+    {
+      "day": 337,
+      "reading": "Ecclesiastes 7-8"
+    },
+    {
+      "day": 338,
+      "reading": "Ecclesiastes 9-10"
+    },
+    {
+      "day": 339,
+      "reading": "Ecclesiastes 11-12"
+    },
+    {
+      "day": 340,
+      "reading": "Song of Solomon 1-2"
+    },
+    {
+      "day": 341,
+      "reading": "Song of Solomon 3-4"
+    },
+    {
+      "day": 342,
+      "reading": "Song of Solomon 5-6"
+    },
+    {
+      "day": 343,
+      "reading": "Song of Solomon 7-8"
+    },
+    {
+      "day": 344,
+      "reading": "Isaiah 1-2"
+    },
+    {
+      "day": 345,
+      "reading": "Isaiah 3-4"
+    },
+    {
+      "day": 346,
+      "reading": "Isaiah 5-6"
+    },
+    {
+      "day": 347,
+      "reading": "Isaiah 7-8"
+    },
+    {
+      "day": 348,
+      "reading": "Isaiah 9-10"
+    },
+    {
+      "day": 349,
+      "reading": "Isaiah 11-12"
+    },
+    {
+      "day": 350,
+      "reading": "Isaiah 13-14"
+    },
+    {
+      "day": 351,
+      "reading": "Isaiah 15-16"
+    },
+    {
+      "day": 352,
+      "reading": "Isaiah 17-18"
+    },
+    {
+      "day": 353,
+      "reading": "Isaiah 19-20"
+    },
+    {
+      "day": 354,
+      "reading": "Isaiah 21-22"
+    },
+    {
+      "day": 355,
+      "reading": "Isaiah 23-24"
+    },
+    {
+      "day": 356,
+      "reading": "Isaiah 25-26"
+    },
+    {
+      "day": 357,
+      "reading": "Isaiah 27-28"
+    },
+    {
+      "day": 358,
+      "reading": "Isaiah 29-30"
+    },
+    {
+      "day": 359,
+      "reading": "Isaiah 31-32"
+    },
+    {
+      "day": 360,
+      "reading": "Isaiah 33-34"
+    },
+    {
+      "day": 361,
+      "reading": "Isaiah 35-36"
+    },
+    {
+      "day": 362,
+      "reading": "Isaiah 37-38"
+    },
+    {
+      "day": 363,
+      "reading": "Isaiah 39-40"
+    },
+    {
+      "day": 364,
+      "reading": "Isaiah 41-42"
+    },
+    {
+      "day": 365,
+      "reading": "Isaiah 43-44"
+    }
+  ]
